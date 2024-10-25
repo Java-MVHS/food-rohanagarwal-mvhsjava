@@ -1,6 +1,6 @@
 /* Rohan Agarwal
  * 10/23/24
-  Food.java
+  DeepDishPizza.java
   
 */
 public class DeepDishPizza extends Pizza //DeepDishPizza class created that is a subclass of Pizza
