@@ -1,6 +1,9 @@
 /* Rohan Agarwal
  * 10/23/24
   Food.java
+  This program creates a class called Food, which contains a string set to a message to be read at a bake sale. A subclass is created called
+  Pizza, and a subclass of Pizza is created called DeepDishPizza. These classes contain a method called printToSale which prints out a message
+  outlining the ingredient and name of each Food.
   
 */
 
